@@ -1,0 +1,7 @@
+{
+  "name": "Precious Moments Gift Shop",
+  "description": "A professional gift shop e-commerce platform with admin panel, WhatsApp integration, and real-time product management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
